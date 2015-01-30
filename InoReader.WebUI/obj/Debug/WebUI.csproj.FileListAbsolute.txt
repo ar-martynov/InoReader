@@ -1,0 +1,540 @@
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\obj\Debug\InoReader.WebUI.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\obj\Debug\InoReader.WebUI.pdb
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\InoReader.WebUI.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\InoReader.WebUI.pdb
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\Domain.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\Moq.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\Ninject.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\System.Net.Http.Formatting.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\System.Web.Http.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\System.Web.Http.WebHost.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\System.Web.Razor.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\System.Web.WebPages.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\WebActivator.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\Domain.pdb
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\Moq.xml
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\Ninject.pdb
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\Ninject.xml
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\Ninject.Web.Common.pdb
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\Ninject.Web.Mvc.pdb
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\System.Net.Http.Formatting.xml
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\System.Web.Http.xml
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\System.Web.Http.WebHost.xml
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\System.Web.Razor.xml
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\System.Web.WebPages.xml
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\EntityFramework.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\EntityFramework.xml
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\InoReader.WebUI.dll.config
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\InoReader.WebUI.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\InoReader.WebUI.pdb
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\Domain.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\Moq.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\Ninject.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\System.Web.Http.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\WebActivator.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\EntityFramework.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\Domain.pdb
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\Moq.xml
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\Ninject.pdb
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\Ninject.xml
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\Ninject.Web.Common.pdb
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\Ninject.Web.Mvc.pdb
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\System.Web.Http.xml
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\EntityFramework.xml
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\obj\Debug\InoReader.WebUI.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\obj\Debug\InoReader.WebUI.pdb
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\AutoMapper.Net4.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\AutoMapper.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader\InoReader.WebUI\bin\AutoMapper.xml
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\AutoMapper.Net4.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\InoReader.WebUI.dll.config
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\InoReader.WebUI.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\InoReader.WebUI.pdb
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\AutoMapper.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\Domain.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\Moq.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\Ninject.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\System.Net.Http.Formatting.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\System.Web.Http.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\System.Web.Http.WebHost.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\System.Web.Razor.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\System.Web.WebPages.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\WebActivator.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\EntityFramework.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\Domain.pdb
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\AutoMapper.xml
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\Moq.xml
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\Ninject.pdb
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\Ninject.xml
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\Ninject.Web.Common.pdb
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\Ninject.Web.Mvc.pdb
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\System.Net.Http.Formatting.xml
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\System.Web.Http.xml
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\System.Web.Http.WebHost.xml
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\System.Web.Razor.xml
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\System.Web.WebPages.xml
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\EntityFramework.xml
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\obj\Debug\InoReader.WebUI.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\obj\Debug\InoReader.WebUI.pdb
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\AutoMapper.Net4.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\InoReader.WebUI.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\InoReader.WebUI.pdb
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\AutoMapper.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\Domain.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\Moq.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\Ninject.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\System.Web.Http.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\WebActivator.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\EntityFramework.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\Domain.pdb
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\AutoMapper.xml
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\Moq.xml
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\Ninject.pdb
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\Ninject.xml
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\Ninject.Web.Common.pdb
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\Ninject.Web.Mvc.pdb
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\System.Web.Http.xml
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\bin\EntityFramework.xml
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\obj\Debug\InoReader.WebUI.dll
+C:\Users\user\Desktop\Мартынов\InoReader\InoReader.WebUI\obj\Debug\InoReader.WebUI.pdb
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\Common.Logging.Core.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\Common.Logging.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\Quartz.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\Common.Logging.pdb
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\Common.Logging.xml
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\Common.Logging.Core.pdb
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\Common.Logging.Core.xml
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\Quartz.pdb
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader\InoReader.WebUI\bin\Quartz.xml
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\AutoMapper.Net4.dll
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\InoReader.WebUI.dll.config
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\InoReader.WebUI.dll
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\InoReader.WebUI.pdb
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\AutoMapper.dll
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\Common.Logging.Core.dll
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\Common.Logging.dll
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\Domain.dll
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\Moq.dll
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\Ninject.dll
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\Quartz.dll
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\System.Net.Http.Formatting.dll
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\System.Web.Http.dll
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\System.Web.Http.WebHost.dll
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\System.Web.Razor.dll
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\System.Web.WebPages.dll
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\WebActivator.dll
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\EntityFramework.dll
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\Domain.pdb
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\AutoMapper.xml
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\Common.Logging.pdb
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\Common.Logging.xml
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\Common.Logging.Core.pdb
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\Common.Logging.Core.xml
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\Moq.xml
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\Ninject.pdb
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\Ninject.xml
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\Ninject.Web.Common.pdb
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\Ninject.Web.Mvc.pdb
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\Quartz.pdb
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\Quartz.xml
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\System.Net.Http.Formatting.xml
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\System.Web.Http.xml
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\System.Web.Http.WebHost.xml
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\System.Web.Razor.xml
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\System.Web.WebPages.xml
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\bin\EntityFramework.xml
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\obj\Debug\InoReader.WebUI.dll
+C:\Users\Aspex\Desktop\Учебный проект\бэкак\InoReader.WebUI\obj\Debug\InoReader.WebUI.pdb
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\obj\Debug\InoReader.WebUI.dll
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\AutoMapper.Net4.dll
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\InoReader.WebUI.dll.config
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\InoReader.WebUI.dll
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\InoReader.WebUI.pdb
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\AutoMapper.dll
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\Common.Logging.Core.dll
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\Common.Logging.dll
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\Domain.dll
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\EntityFramework.dll
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\Moq.dll
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\Ninject.dll
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\Quartz.dll
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\System.Net.Http.Formatting.dll
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\System.Web.Http.dll
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\System.Web.Http.WebHost.dll
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\System.Web.Razor.dll
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\System.Web.WebPages.dll
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\WebActivator.dll
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\Domain.pdb
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\AutoMapper.xml
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\Common.Logging.pdb
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\Common.Logging.xml
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\Common.Logging.Core.pdb
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\Common.Logging.Core.xml
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\EntityFramework.xml
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\Moq.xml
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\Ninject.pdb
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\Ninject.xml
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\Ninject.Web.Common.pdb
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\Ninject.Web.Mvc.pdb
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\Quartz.pdb
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\Quartz.xml
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\System.Net.Http.Formatting.xml
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\System.Web.Http.xml
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\System.Web.Http.WebHost.xml
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\System.Web.Razor.xml
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\System.Web.WebPages.xml
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aspex\Desktop\Учебный проект\0.00003 (Unit of work)\InoReader.WebUI\obj\Debug\InoReader.WebUI.pdb
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\AutoMapper.Net4.dll
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\InoReader.WebUI.dll
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\InoReader.WebUI.pdb
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\AutoMapper.dll
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\Common.Logging.Core.dll
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\Common.Logging.dll
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\Domain.dll
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\EntityFramework.dll
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\Moq.dll
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\Ninject.dll
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\Quartz.dll
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\System.Web.Http.dll
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\WebActivator.dll
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\Domain.pdb
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\AutoMapper.xml
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\Common.Logging.pdb
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\Common.Logging.xml
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\Common.Logging.Core.pdb
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\Common.Logging.Core.xml
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\EntityFramework.xml
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\Moq.xml
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\Ninject.pdb
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\Ninject.xml
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\Ninject.Web.Common.pdb
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\Ninject.Web.Mvc.pdb
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\Quartz.pdb
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\Quartz.xml
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\System.Web.Http.xml
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\obj\Debug\InoReader.WebUI.dll
+C:\Users\user\Desktop\Мартынов\0.00003 (Unit of work)\InoReader.WebUI\obj\Debug\InoReader.WebUI.pdb
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\AutoMapper.Net4.dll
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\InoReader.WebUI.dll.config
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\InoReader.WebUI.dll
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\InoReader.WebUI.pdb
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\AutoMapper.dll
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\Common.Logging.Core.dll
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\Common.Logging.dll
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\Domain.dll
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\EntityFramework.dll
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\Moq.dll
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\Ninject.dll
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\Quartz.dll
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\System.Net.Http.Formatting.dll
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\System.Web.Http.dll
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\System.Web.Http.WebHost.dll
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\System.Web.Razor.dll
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\System.Web.WebPages.dll
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\WebActivator.dll
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\Domain.pdb
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\AutoMapper.xml
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\Common.Logging.pdb
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\Common.Logging.xml
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\Common.Logging.Core.pdb
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\Common.Logging.Core.xml
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\EntityFramework.xml
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\Moq.xml
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\Ninject.pdb
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\Ninject.xml
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\Ninject.Web.Common.pdb
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\Ninject.Web.Mvc.pdb
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\Quartz.pdb
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\Quartz.xml
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\System.Net.Http.Formatting.xml
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\System.Web.Http.xml
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\System.Web.Http.WebHost.xml
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\System.Web.Razor.xml
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\System.Web.WebPages.xml
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\obj\Debug\InoReader.WebUI.dll
+C:\Users\Aspex\Desktop\Учебный проект\n\InoReader.WebUI\obj\Debug\InoReader.WebUI.pdb
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\AutoMapper.Net4.dll
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\InoReader.WebUI.dll
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\InoReader.WebUI.pdb
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\AutoMapper.dll
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\Common.Logging.Core.dll
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\Common.Logging.dll
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\Domain.dll
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\EntityFramework.dll
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\Moq.dll
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\Ninject.dll
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\Quartz.dll
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\System.Web.Http.dll
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\WebActivator.dll
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\Domain.pdb
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\AutoMapper.xml
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\Common.Logging.pdb
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\Common.Logging.xml
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\Common.Logging.Core.pdb
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\Common.Logging.Core.xml
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\EntityFramework.xml
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\Moq.xml
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\Ninject.pdb
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\Ninject.xml
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\Ninject.Web.Common.pdb
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\Ninject.Web.Mvc.pdb
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\Quartz.pdb
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\Quartz.xml
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\System.Web.Http.xml
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\obj\Debug\InoReader.WebUI.dll
+C:\Users\user\Desktop\Мартынов\final 1\InoReader.WebUI\obj\Debug\InoReader.WebUI.pdb
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\AutoMapper.Net4.dll
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\InoReader.WebUI.dll.config
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\InoReader.WebUI.dll
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\InoReader.WebUI.pdb
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\AutoMapper.dll
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\Common.Logging.Core.dll
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\Common.Logging.dll
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\Domain.dll
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\EntityFramework.dll
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\Moq.dll
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\Ninject.dll
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\Quartz.dll
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\System.Net.Http.Formatting.dll
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\System.Web.Http.dll
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\System.Web.Http.WebHost.dll
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\System.Web.Razor.dll
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\System.Web.WebPages.dll
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\WebActivator.dll
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\Domain.pdb
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\AutoMapper.xml
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\Common.Logging.pdb
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\Common.Logging.xml
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\Common.Logging.Core.pdb
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\Common.Logging.Core.xml
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\EntityFramework.xml
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\Moq.xml
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\Ninject.pdb
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\Ninject.xml
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\Ninject.Web.Common.pdb
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\Ninject.Web.Mvc.pdb
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\Quartz.pdb
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\Quartz.xml
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\System.Net.Http.Formatting.xml
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\System.Web.Http.xml
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\System.Web.Http.WebHost.xml
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\System.Web.Razor.xml
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\System.Web.WebPages.xml
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\obj\Debug\InoReader.WebUI.dll
+C:\Users\Aspex\Desktop\Учебный проект\final 1\InoReader.WebUI\obj\Debug\InoReader.WebUI.pdb
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\AutoMapper.Net4.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\AutoMapper.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\Common.Logging.Core.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\Common.Logging.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\Quartz.dll
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\AutoMapper.xml
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\Common.Logging.pdb
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\Common.Logging.xml
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\Common.Logging.Core.pdb
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\Common.Logging.Core.xml
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\Quartz.pdb
+C:\Users\Aspex\Desktop\Учебный проект\InoReader\InoReader.WebUI\bin\Quartz.xml
