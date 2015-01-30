@@ -1,0 +1,79 @@
+﻿@model Domain.Models.RssCanalModel
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div id="modal-unSubscribeRss" class="modal fade">
+    <div class="modal-dialog ">
+        <div class="modal-content col-sm-10">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h3 id="modalHeader"></h3>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    Отписаться от @Model.Title ?
+                    <div class="form-group text-right">
+                        <div class="col-lg-10 col-lg-offset-2">
+                            <a href="/" class="btn" data-dismiss="modal" aria-hidden="true">Отмена</a>
+                            <button type="submit" value="create" class="btn btn-default unSubscribe-accept" id="@Model.RssCanalId">Отписаться</button>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-9">
+        <p class="lead">
+            @Model.Title
+        </p>
+    </div>
+    <div class="col-sm-3">
+        <a class="btn btn-link lead" aria-hidden="true" id="unSubscribeRssCanal" title="Отписаться от канала"><span class="glyphicon glyphicon-remove "></span> Отписаться </a>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-8 col-sm-offset-2 text-center">
+        @if (ViewBag.oldCanal == null || !ViewBag.oldCanal)
+        {
+            <h4 class="lead">Вы успешно подписались на <small>"@Model.Title"</small></h4>
+        }
+    </div>
+</div>
+
+<div class="row " id="pagedContentContainer">
+    @Html.Partial("_RssNews", Model.RssNews)
+    @Html.Partial("_PaginationRss", Model)
+</div>
+
+
+
+<script>
+    $("#unSubscribeRssCanal").click(function (e) {
+        $('#modal-unSubscribeRss').modal('show');
+    });
+
+    $(".unSubscribe-accept").click(function (e) {
+        $.post("/InoReader/UnSubscribeRss",
+              {
+                  rssCanalId: e.target.id,
+              },
+              RedirectToIndex
+            );
+
+        function RedirectToIndex(data) {
+            if (data.success)
+            {
+                setTimeout('location.replace("' + data.redirectLink + '")');
+            }
+        };
+
+    });
+</script>

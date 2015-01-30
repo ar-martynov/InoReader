@@ -1,0 +1,8 @@
+﻿/*
+ * Команда для включения миграции
+ * PM> Enable-Migrations -ProjectName Domain -StartUpProjectName WebUI -Verbose -Force
+ * Материал по миграциям http://www.dotnet-tricks.com/Tutorial/entityframework/R54K181213-Understanding-Entity-Framework-Code-First-Migrations.html
+ */
+ Update-Database -ProjectName Domain -StartUpProjectName WebUI -Verbose -Force //обновляем базу
+
+ Enable-Migrations –EnableAutomaticMigrations -ProjectName Domain -StartUpProjectName WebUI -Verbose -Force //включаем автоматическую миграцию

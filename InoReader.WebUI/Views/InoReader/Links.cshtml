@@ -1,0 +1,72 @@
+﻿@model Domain.Models.PagedLinksModel
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@if (Model.ReaderLinks.Count != 0)
+{
+    <div class="row">
+        <div class="col-sm-4">
+
+            <p class="lead">
+                @ViewBag.Title
+            </p>
+
+        </div>
+        <div class="col-sm-5 col-sm-offset-3 text-right">
+            <h6 class="panel-title">
+                Упорядочить:
+            </h6>
+            @if (Model.Order)
+            {
+                <label class="radio-inline">
+                    <input class="orderInput" type="radio" name="OrderRadio" id="orderFalse" value="true" checked="checked"> По дате добавления
+                </label>
+                <label class="radio-inline">
+                    <input class="orderInput" type="radio" name="OrderRadio" id="orderTrue" value="false"> По названию
+                </label>
+            }
+            else
+            {
+                <label class="radio-inline">
+                    <input class="orderInput" type="radio" name="OrderRadio" id="orderFalse" value="false"> По дате добавления
+                </label>
+                <label class="radio-inline">
+                    <input class="orderInput" type="radio" name="OrderRadio" id="orderTrue" value="true" checked="checked"> По названию
+                </label>
+            }
+        </div>
+    </div>
+
+    <div id="pagedContentContainer">
+        @foreach (var link in Model.ReaderLinks)
+        {
+            @Html.Partial("_Link", link, new ViewDataDictionary { { "Order", Model.Order } })
+        }
+
+        @if (Model.ReaderLinks.Count != 0 && Model.TotalPages >= 2)
+        {
+            @Html.Partial("_PaginationLinks", Model)
+        }
+    </div>
+}
+else
+{
+    <p> По данному запросу ничего не найдено</p>
+}
+
+<script>
+
+    $(document).on('click', '.orderInput', function(e) {
+        $.get("/InoReader/@Model.ActionName",
+              {
+                  itemId: "@Model.ItemId",
+                  itemName: "@ViewBag.Title",
+                  order: e.target.value,
+                  page: 0,
+              },    
+              AddPagedContent
+          );
+    });
+</script>

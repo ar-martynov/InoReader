@@ -1,0 +1,85 @@
+﻿@model Domain.Models.NewLinkModel
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    AjaxOptions ajaxOpts = new AjaxOptions
+    {
+        OnSuccess = "Redirect",
+    };
+}
+<div class="row ">
+    <div class="col-sm-12">
+        <p class="lead">
+            Редактирование ссылки:
+            <small>
+                "@ViewBag.Title"
+            </small>
+        </p>
+    </div>
+</div>
+
+@using (Html.BeginForm("ModifyLink", "InoReader", FormMethod.Post, new { @class = "form-horizontal", @id = "loginForm" }))
+{
+                            @Html.HiddenFor(x=>x.Url)
+                            @Html.HiddenFor(x=>x.LinkId)
+                            @Html.HiddenFor(x=>x.DateWhenAdded)
+    <div class="row">
+            <div class="col-sm-8 col-sm-offset-2">
+                <div class="col-lg-11">
+                    <div class="text-right">
+                            @Html.ActionLink(" ", "DeleteLink", "InoReader",
+                                        new { linkId = Model.LinkId },
+                                        new { @class = "btn lead glyphicon glyphicon-trash", @title = "Удалить ссылку" })
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="inputLogin" class="col-lg-2 control-label lead">Ссылка:</label>
+                        <div class="col-lg-10">
+                            <h4><a href="@Model.Url" target="_blank">@Model.Url</a></h4>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="inputLogin" class="col-lg-2 control-label lead">Добавлена:</label>
+                        <div class="col-lg-10">
+                            @Html.Label("LinkDate", Model.DateWhenAdded.ToString(), new { @class = "control-label" })
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="inputPassword" class="col-lg-2 control-label lead">Название:</label>
+                        <div class="col-lg-10">
+                            @Html.TextBoxFor(x => x.Title, null, new { @class = "form-control wide-control ",  @placeholder = "Введите имя ссылки", @type = "text" })
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="inputPassword" class="col-lg-2 control-label lead">Категория:</label>
+                        <div class="col-lg-10">
+                            @Html.DropDownListFor(x => x.CategoryId, new SelectList(Model.Categories, "CategoryId", "Title", Model.CategoryId), "Без категории", new { @class = "form-control" })
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="inputPassword" class="col-lg-2 control-label lead">Тэги:</label>
+                        <div class="col-lg-10">
+                            @Html.TextBoxFor(x => x.TagsInString, null, new { @class = "form-control wide-control ", @id = "bootstrap-tagsinput", @placeholder = "Введите тэг", @type = "text" })
+                            
+                        </div>
+                    </div>
+                    <div class="form-group text-right">
+                        <div class="col-lg-10 col-lg-offset-2">
+                            <a href="/" class="btn" data-dismiss="modal" aria-hidden="true">Отмена</a>
+                            <button type="submit" value="create" class="btn btn-default" id="submitLink"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>&nbsp;Сохранить</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+}
+<script>
+    $("#bootstrap-tagsinput").tagsinput('items');
+    $('#bootstrap-tagsinput').attr('data-role', 'tagsinput');
+    function Redirect(data) {
+        if (data.success) {
+            setTimeout('location.replace("' + data.redirect + '")');
+        }
+    };
+</script>
+

@@ -1,0 +1,154 @@
+﻿@model Domain.Models.AllLinksAndCategories
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<script>
+    $(function () {
+        $.ajaxSetup({ cache: false });
+
+
+        $("#newCategory-btn").click(function (e) {
+
+            e.preventDefault();
+
+            $.get("/InoReader/AddCategory", function (data) {
+                $('#dialogContent').html(data);
+                $('#modDialog').modal('show');
+            });
+        });
+
+       /* $(document).on('click', '.deleteLink', function (e) {
+            $.get("/InoReader/DeleteLink",
+             {
+                 linkId: e.target.id,
+             },
+             onSuccessCategoryDelete
+         );
+
+            function onSuccessCategoryDelete(data) {
+                $(".linkRow > #"+e.target.id).html(data);
+            }
+        });*/
+
+
+    })
+    function AddCategoryFromModal(data) {
+        var newElement = '<div class="row" id="Category_' + data.categoryId + '">' +
+                '<div class="col-sm-12">' +
+                    '<h5>' +
+                        '<b>' + data.categoryTitle + '</b>' +
+                        '<small>' +
+                            '<a class="btn lead" aria-hidden="true" id="' + data.categoryId + '" title="Удалить категорию"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span></a>' +
+                       '</small>' +
+                   '</h5>' +
+                '</div>' +
+                '</div>' +
+            '<p>В данной категории нет ссылок</p>';
+        $(newElement).appendTo('#allCategoriesContainer');
+    }
+
+
+</script>
+
+<div id="modDialog" class="modal fade">
+    <div class="modal-dialog ">
+        <div class="modal-content col-sm-10">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h3 id="modalHeader">Добавление категории</h3>
+            </div>
+            <div class="modal-body" id="dialogContent">
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row ">
+    <div class="col-sm-3">
+            <p class="lead">
+                @ViewBag.Title
+            </p>
+    </div>
+    <div class="col-sm-5 col-sm-offset-4">
+        <p class="text-right"><a class="btn lead " aria-hidden="true" id="newCategory-btn" title="Добавить категорию"><span class="glyphicon glyphicon-plus "></span> Добавить категорию </a>
+    </div>
+</div>
+
+<div class="row" id="Category_none">
+    <div class="col-sm-12">
+        <h5>
+            <b>Без категории</b>
+        </h5>
+    </div>
+</div>
+
+<div id="allCategoriesContainer">
+    @if (Model.LinksWithoutCategory.Links.Count > 0 && Model.LinksWithoutCategory.Links !=null)
+{
+    foreach (var link in Model.LinksWithoutCategory.Links)
+    {
+        if (link.Title == null || link.Title=="") {link.Title = "Ошибка чтения заголовка страницы";}
+        <div class="row">
+            <div class="col-sm-10 col-sm-offset-1">
+                @Html.ActionLink(link.Title, "ModifyLink", "InoReader", new {linkId = link.LinkId }, new { linkId = link.LinkId })
+                <small>
+                    @Html.ActionLink(" ", "DeleteLink", "InoReader",
+                                        new { linkId = link.LinkId },
+                                        new { @class = "btn lead glyphicon glyphicon-trash", @title = "Удалить ссылку" })
+                </small>
+            </div>
+        </div>
+    }
+}
+
+else
+{
+        <p>Отсутствуют ссылки без категории</p>
+    }
+
+    <hr />
+
+    @if (Model.CategoriesWithLinks.Count != 0)
+    {
+        foreach (var category in Model.CategoriesWithLinks)
+        {
+            <div class="row">
+                <div class="col-sm-12">
+                    <h5>
+                        <b>@category.Title</b>
+                        <small>
+                            @Html.ActionLink(" ", "DeleteCategory", "InoReader",
+                                        new { categoryId = category.CategoryId },
+                                        new { @class = "btn lead glyphicon glyphicon-remove" })
+                        </small>
+                    </h5>
+                </div>
+            </div>
+            if (category.Links.Count != 0)
+            {
+                foreach (var link in category.Links)
+                {
+                    if (link.Title == "") {link.Title = "Ошибка чтения Title с ресурса";}
+                    <div class="row">
+                        <div class="col-sm-10 col-sm-offset-1">
+                            @Html.ActionLink(link.Title, "ModifyLink", "InoReader", new{ linkId = link.LinkId }, new { linkId = link.LinkId})
+                            <small>
+                                @Html.ActionLink(" ", "DeleteLink", "InoReader",
+                                        new { linkId = link.LinkId },
+                                        new { @class = "btn lead glyphicon glyphicon-trash", @title = "Исключить из категории" })
+                            </small>
+                        </div>
+                    </div>
+                }
+            }
+            else
+            {
+                <p>В данной категории нет ссылок</p>
+            }
+            <hr />
+        }
+    }
+</div>
+

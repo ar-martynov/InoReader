@@ -1,0 +1,66 @@
+﻿@model Domain.Models.CategoryModel
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@{
+    if (Model.Links.Count != 0)
+    {
+        foreach (var link in Model.Links)
+        {
+            <text>
+                <div class="linkRow" id="@link.LinkId">
+                    <div class="row">
+                        <div class="col-sm-10 col-sm-offset-1">
+                            <h4><a href="@link.Url" target="_blank">@link.Title</a></h4>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-5 col-sm-offset-1 ">
+                            <h5 class="text-left">
+                                Категория:
+                                @if (@Model.Title != null)
+                                {
+                                    <a class="btn sideBarCategory" id="@Model.CategoryId">@Model.Title</a>
+                                }
+                                else
+                                {
+                                    <a class="label label-default sideBarCategory" id="-1">Без категории</a>
+                                }
+                            </h5>
+                        </div>
+                        <div class="col-sm-5 ">
+                            <h4 class="text-right"><small>дата добавления: @link.DateWhenAdded.ToShortDateString()</small></h4>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-sm-10 col-sm-offset-1">
+                            <p class="text-justify mute">
+                                Тэги: &nbsp;
+                                @if (link.Tags.Count != 0)
+                                {
+                                    foreach (var tag in link.Tags)
+                                    {
+                                        <text>
+                                            <a class="label label-info sideBarTag" id="@tag.TagId">#@tag.Title</a>
+                                        </text>
+                                    }
+                                }
+                                else
+                                {
+                                    <a class="label label-default sideBarTag" id="-1">отсутствуют</a>
+                                }
+                            </p>
+                        </div>
+                    </div>
+                    <hr />
+                </div>
+            </text>
+        }
+    }
+    else
+    {
+        <p class=" lead"> В данной категории нет ссылок</p>
+    }
+}
